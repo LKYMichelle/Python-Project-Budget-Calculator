@@ -5,5 +5,8 @@ My first Python project: take in initial budgets of 6 major categories and let t
 ### Prerequisites
 ### Executing program
 ## Usage
-## Author contact
+## Author
+LKY Michelle
+Link of project: https://github.com/LKYMichelle/Python-Project-Budget-Calculator.git
 ## License
+This project is licensed under the MIT License - see the LICENSE file for details
