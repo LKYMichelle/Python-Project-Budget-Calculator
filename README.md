@@ -6,7 +6,7 @@ My first Python project: take in initial budgets of 6 major categories and let t
 ### Executing program
 ## Usage
 ## Author
-LKY Michelle
+LKY Michelle<br>
 Link of project: https://github.com/LKYMichelle/Python-Project-Budget-Calculator.git
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
