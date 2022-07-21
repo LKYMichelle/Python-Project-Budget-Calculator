@@ -51,7 +51,7 @@ My first Python project from draft and design to coding and README: take in init
 * install Matplotlib: `pip install matplotlib`
 * install tabulate: `pip install tabulate`
 ### Executing program
-* download `budget_calc.py` and open it in a Python IDE (Visual Studio Code for author)
+* download [budget_calc.py](https://github.com/LKYMichelle/Python-Project-Budget-Calculator/blob/main/budget_calc.py) and open it in a Python IDE (Visual Studio Code for author)
 * run the program and follow the instructions
 ## Usage
 Example of usage:    
