@@ -75,4 +75,4 @@ Example of usage:
 LKY Michelle<br>
 Link of project: https://github.com/LKYMichelle/Python-Project-Budget-Calculator.git
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/LKYMichelle/Python-Project-Budget-Calculator/blob/main/LICENSE) file for details
